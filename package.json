@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/uxebu/undef-example/issues"
   },
-  "homepage": "https://github.com/uxebu/undef-example"
+  "homepage": "https://github.com/uxebu/undef-example",
+  "devDependencies": {
+    "undef": "0.1.0-alpha2"
+  }
 }
