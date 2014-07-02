@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node node_modules/.bin/undef -d src/js -o ./dist/app.js app/main"
+    "build": "node node_modules/.bin/undef --basedir src/js --output ./dist/app.js app/main"
   },
   "repository": {
     "type": "git",
