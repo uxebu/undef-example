@@ -1,0 +1,24 @@
+{
+  "name": "undef-example",
+  "version": "1.0.0",
+  "description": "Show how to build require.js modules using undef",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/uxebu/undef-example.git"
+  },
+  "keywords": [
+    "undef",
+    "amd",
+    "requirejs"
+  ],
+  "author": "uxebu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uxebu/undef-example/issues"
+  },
+  "homepage": "https://github.com/uxebu/undef-example"
+}
